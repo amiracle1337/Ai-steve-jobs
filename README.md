@@ -29,3 +29,5 @@ npm start
 - I had the idea of building something like this in January 2023 before I knew how to code. I've always wanted to personally talk to one of the biggest role models in my life.
 - I built this in general Javascript because at the time of coding this, I had yet not learned React yet (which I now do)
  
+
+[https://www.loom.com/share/cb7d375d36b34de1912358d71c8669e0](url)
