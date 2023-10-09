@@ -14,9 +14,9 @@ The app works as follows:
 # Run the app locally
   1. Download repo
   2. Install dependencies
-`
+```
 npm i
-`
-`
+```
+```
 npm start
-`
+```
