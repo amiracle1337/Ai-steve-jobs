@@ -1,12 +1,12 @@
 # Ai-steve-jobs
-Ask AI Steve Jobs questions and hear him respond with true-life audio that sounds just like him.
+Ask AI Steve Jobs questions and hear him respond with audio that sounds just like him.
 
 The app works as follows:
-  1. Ask a question in the chat
-  2. Get a response back from a pre-propmpted OpenAI model
-  3. Take the response from OpenAI and fetch audio from Eleven Labs that has been created based on Steve's voice
-  5. Get a response back from AI Steve Jobs in the chat field
-  6. Play the audio and hear Steve Jobs read out his answer to you
+  1. User asks a question in the chat
+  2. A request is made to a pre-prompted OpenAI model with the question
+  3. The response from OpenAI is sent to Eleven Labs where we fetch a custom created clone of Steve's voice
+  5. User gets a response back from AI Steve Jobs in the chat field
+  6. User plays the audio and heara Steve Jobs read out his answer to you
 
 # Requirments
   1. Get an OpenAI API key.
