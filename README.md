@@ -1,13 +1,7 @@
 # Ai-steve-jobs
 Ask AI Steve Jobs questions and hear him respond with audio that sounds just like him.
 
-![screenshot] (https://github.com/amiracle1337/Ai-steve-jobs/blob/main/images/Screenshot%202023-10-09%20at%2022.32.47.png)
-
-
-
-
-
-
+![Uploading Screenshot 2023-10-09 at 22.32.47.png…]()
 
 The app works as follows:
   1. User asks a question in the chat
