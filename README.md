@@ -30,4 +30,5 @@ npm start
 - I built this in general Javascript because at the time of coding this, I had yet not learned React yet (which I now do)
  
 
-[https://www.loom.com/share/cb7d375d36b34de1912358d71c8669e0](url)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
