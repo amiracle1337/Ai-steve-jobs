@@ -1,7 +1,9 @@
 # Ai-steve-jobs
 Ask AI Steve Jobs questions and hear him respond with audio that sounds just like him.
 
-![screenshot](https://raw.githubusercontent.com/amiracle1337/Ai-steve-jobs/main/images/Screenshot%202023-10-09%20at%2022.24.03.png](https://raw.githubusercontent.com/amiracle1337/Ai-steve-jobs/main/images/Screenshot%202023-10-09%20at%2022.32.47.png)
+![screenshot] (https://github.com/amiracle1337/Ai-steve-jobs/blob/main/images/Screenshot%202023-10-09%20at%2022.32.47.png)
+
+
 
 
 
