@@ -3,6 +3,8 @@ Ask AI Steve Jobs questions and hear him respond with audio that sounds just lik
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](images/Screenshot 2023-10-09 at 22.24.03.png)
 
+![alt text](https://github.com/[amiracle1337]/[Ai-steve-jobs]/blob/images/Screenshot 2023-10-09 at 22.24.03.png)
+
 
 
 The app works as follows:
