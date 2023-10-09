@@ -23,8 +23,7 @@ npm i
 ```
 npm start
 ```
-  3. Use your own API keys
-     Get your own OpenAI and Eleven labs API keys and replace them in the "env.js" file
+  3. Get your own OpenAI and Eleven labs API keys and replace them in the "env.js" file
 
 # Notes
 - I had the idea of building something like this in January 2023 before I knew how to code. I've always wanted to personally talk to one of the biggest role models in my life.
