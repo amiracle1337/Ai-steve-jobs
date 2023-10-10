@@ -2,9 +2,9 @@
 
 Ai-Steve-Jobs allows users to pose questions and receive audio responses, echoing the iconic voice of Steve Jobs himself.
 
-=> **[WATCH THE DEMO HERE](https://www.youtube.com/watch?v=ek1j272iAmc)** <=
+=> **[WATCH THE DEMO HERE](https://www.youtube.com/watch?v=rWgkzRtGTCo)** <=
 
-[![Ai-Steve-Jobs Demo](https://github.com/amiracle1337/Ai-steve-jobs/assets/122039464/07fcdd90-25de-415b-9979-76519cbe3cbe)](https://www.youtube.com/watch?v=ek1j272iAmc)
+![LG UltraFine](https://github.com/amiracle1337/plant-health-detection/assets/122039464/de469684-7dbf-4ee5-8e42-7c79c50139d6)
 
 ## How it Works:
 1. **User Interaction**: Initiate a conversation by posing a question in the chat interface.
@@ -31,7 +31,9 @@ npm start
 3. **API Key Configuration**: Insert your OpenAI and Eleven Labs API keys in the "env.js" file.
 
 ## Personal Reflection:
-- The vision for this venture was conceived in January 2023, before I embarked on my coding odyssey. The allure of engaging in virtual dialogue with one of my personal heroes, Steve Jobs, was the driving force.
-- I adopted vanilla JavaScript for this initiative. When this project was in its infancy, I was yet to explore React, which I have since mastered.
+- I came up with the idea for this project back in January 2023, before knew how to code. I've always wanted to have a chat with Steve Jobs, even if just virtually.
+- I used vanilla JavaScript because that's what I was familiar with at the time. I've since learned how to code in React.
 
-[![Ai-Steve-Jobs Demo Gif](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+## Contact
+
+amir@amiracle.xyz
